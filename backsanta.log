@@ -1,0 +1,69 @@
+2026-05-25 19:55:16,801 INFO Started server process [9454]
+2026-05-25 19:55:16,801 INFO Waiting for application startup.
+2026-05-25 19:55:16,801 INFO backsanta server starting on :7070
+2026-05-25 19:55:16,801 INFO Application startup complete.
+2026-05-25 19:55:16,802 INFO Uvicorn running on http://127.0.0.1:7070 (Press CTRL+C to quit)
+2026-05-25 19:55:18,782 INFO 127.0.0.1:50654 - "POST /matches HTTP/1.1" 200
+2026-05-25 19:55:18,783 INFO 127.0.0.1:50666 - "GET /matches/19063e52-2961-490b-b41f-6348a63a2c4d HTTP/1.1" 200
+2026-05-25 19:55:18,784 INFO 127.0.0.1:50668 - "GET /matches/19063e52-2961-490b-b41f-6348a63a2c4d HTTP/1.1" 400
+2026-05-25 19:55:18,784 INFO 127.0.0.1:50676 - "DELETE /matches HTTP/1.1" 204
+2026-05-25 20:09:43,273 INFO Started server process [12328]
+2026-05-25 20:09:43,274 INFO Waiting for application startup.
+2026-05-25 20:09:43,274 INFO backsanta server starting on :7070
+2026-05-25 20:09:43,274 INFO Application startup complete.
+2026-05-25 20:09:43,276 INFO Uvicorn running on http://0.0.0.0:7070 (Press CTRL+C to quit)
+2026-05-25 20:10:23,541 INFO Shutting down
+2026-05-25 20:10:23,652 INFO Waiting for application shutdown.
+2026-05-25 20:10:23,653 INFO backsanta server shutting down
+2026-05-25 20:10:23,653 INFO Application shutdown complete.
+2026-05-25 20:10:23,654 INFO Finished server process [12328]
+2026-05-25 20:10:36,186 INFO Started server process [12516]
+2026-05-25 20:10:36,186 INFO Waiting for application startup.
+2026-05-25 20:10:36,186 INFO backsanta server starting on :7070
+2026-05-25 20:10:36,186 INFO Application startup complete.
+2026-05-25 20:10:36,187 INFO Uvicorn running on http://0.0.0.0:7070 (Press CTRL+C to quit)
+2026-05-25 20:13:10,597 INFO Shutting down
+2026-05-25 20:13:10,700 INFO Waiting for application shutdown.
+2026-05-25 20:13:10,700 INFO backsanta server shutting down
+2026-05-25 20:13:10,700 INFO Application shutdown complete.
+2026-05-25 20:13:10,700 INFO Finished server process [12516]
+2026-06-02 21:32:01,309 INFO Started server process [16105]
+2026-06-02 21:32:01,310 INFO Waiting for application startup.
+2026-06-02 21:32:01,310 INFO backsanta server starting on :7070
+2026-06-02 21:32:01,310 INFO Application startup complete.
+2026-06-02 21:32:01,311 INFO Uvicorn running on http://0.0.0.0:7070 (Press CTRL+C to quit)
+2026-06-02 21:32:08,858 INFO Shutting down
+2026-06-02 21:32:08,965 INFO Waiting for application shutdown.
+2026-06-02 21:32:08,965 INFO backsanta server shutting down
+2026-06-02 21:32:08,965 INFO Application shutdown complete.
+2026-06-02 21:32:08,965 INFO Finished server process [16105]
+2026-06-02 21:34:19,215 INFO Started server process [16337]
+2026-06-02 21:34:19,215 INFO Waiting for application startup.
+2026-06-02 21:34:19,215 INFO backsanta server starting on :7070
+2026-06-02 21:34:19,215 INFO Application startup complete.
+2026-06-02 21:34:19,216 INFO Uvicorn running on http://0.0.0.0:7070 (Press CTRL+C to quit)
+2026-06-02 21:34:22,826 INFO Shutting down
+2026-06-02 21:34:22,927 INFO Waiting for application shutdown.
+2026-06-02 21:34:22,927 INFO backsanta server shutting down
+2026-06-02 21:34:22,928 INFO Application shutdown complete.
+2026-06-02 21:34:22,928 INFO Finished server process [16337]
+2026-06-02 21:35:46,313 INFO Started server process [16573]
+2026-06-02 21:35:46,313 INFO Waiting for application startup.
+2026-06-02 21:35:46,313 INFO backsanta server starting on :7070
+2026-06-02 21:35:46,313 INFO Application startup complete.
+2026-06-02 21:35:46,314 INFO Uvicorn running on http://0.0.0.0:7070 (Press CTRL+C to quit)
+2026-06-02 21:35:49,130 INFO Shutting down
+2026-06-02 21:35:49,232 INFO Waiting for application shutdown.
+2026-06-02 21:35:49,232 INFO backsanta server shutting down
+2026-06-02 21:35:49,232 INFO Application shutdown complete.
+2026-06-02 21:35:49,233 INFO Finished server process [16573]
+2026-06-02 21:36:01,838 INFO Started server process [16699]
+2026-06-02 21:36:01,838 INFO Waiting for application startup.
+2026-06-02 21:36:01,838 INFO backsanta server starting on :7070
+2026-06-02 21:36:01,838 INFO Application startup complete.
+2026-06-02 21:36:01,839 INFO Uvicorn running on http://0.0.0.0:7070 (Press CTRL+C to quit)
+2026-06-02 21:41:23,948 INFO Shutting down
+2026-06-02 21:41:24,050 INFO Waiting for application shutdown.
+2026-06-02 21:41:24,050 INFO backsanta server shutting down
+2026-06-02 21:41:24,050 INFO Application shutdown complete.
+2026-06-02 21:41:24,051 INFO Finished server process [16699]
